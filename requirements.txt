@@ -1,4 +1,4 @@
-streamlit==0.67.0
+streamlit-0.68.0-py2.py3-none-any.whl
 gwpy
 matplotlib
 numpy
